@@ -1,0 +1,1 @@
+Recently I ran in to ForeScout on an internal network pen test and noticed a privileged service account attempts to authenticate via SMB to devices plugged in to the network as part of its asset discovery. This little script assigns an Intel-based (Windows) MAC address and resets the interface, causing ForeScout to authenticate each time the scr…
